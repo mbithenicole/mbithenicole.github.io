@@ -1,0 +1,52 @@
+body{
+	align-content: justify;
+	padding-left: 150px;
+	padding-right: 150px;
+	text-align: left;
+}
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.subtitles{
+	color:#F39452;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	
+	font-size:20px;
+}
+
+h2{
+	color:#F06504;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:40px;
+}
+
+p,#more, h3{
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	padding-left: 300px;
+	
+}
+
+#Facebook,#Instagram,#Gmail{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float:right;
+    margin-left: 20px;
+}
+#Facebook{
+	background-color:#0473FF;
+}
+#Instagram{
+	background-color:#FB04FF;
+}
+#Gmail{
+	background-color:#FF0454;
+}
+#picture{
+	text-align:center;
+}
